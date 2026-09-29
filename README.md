@@ -7,9 +7,6 @@ A lightweight 8-bit Game Boy hardware emulator written in C/C++ using SDL2. Desi
 
 <img width="463" height="445" alt="Screenshot 2026-09-29 030230" src="https://github.com/user-attachments/assets/c2fb6bf8-6575-4943-b83f-810192822fad" />
 
-
-*Figure 1: GameboyEmulator rendering the Tetris title screen and active gameplay in real time via SDL2.*
-
 ---
 
 ## 🎮 How to Play
