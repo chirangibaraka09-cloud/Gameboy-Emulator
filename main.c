@@ -1,25 +1,3 @@
-/*
-    GAME BOY EMULATOR - main.c
-    Windows + SDL2
-
-    TETRIS CONTROLS
-    ----------------
-    Z          = A
-    X          = B
-    ENTER      = START
-    BACKSPACE  = SELECT
-    SPACE      = SELECT (backup)
-    ARROWS     = D-PAD
-    ESC        = QUIT
-
-    RUN:
-        gameboy.exe tetris.gb
-
-    Make sure:
-        tetris.gb
-    is beside gameboy.exe
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdint.h>
