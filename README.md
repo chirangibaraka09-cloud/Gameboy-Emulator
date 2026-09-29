@@ -9,7 +9,7 @@ A lightweight 8-bit Game Boy hardware emulator written in C/C++ using SDL2. Desi
 
 ---
 
-## 🎮 How to Play
+
 
 To launch a game, compile the source code and run the executable with your Game Boy ROM file (e.g., `tetris.gb`) as a command-line argument:
 
